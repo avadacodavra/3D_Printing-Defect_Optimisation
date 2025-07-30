@@ -147,3 +147,6 @@ pip install tensorflow keras numpy opencv-python matplotlib
 - Update folder structure and retrain if adding new defect categories.
 - For even faster inference, MobileNetV2 can be used instead of ResNet50 (requires modification).
 - If the webcam is dark or unfocused, adjust its positioning or use camera controls.
+
+## Demo Video
+https://drive.google.com/file/d/1fmB5Ezfx23nJ1rYGj3R-DCSb8IZXenwc/view?usp=drivesdk
